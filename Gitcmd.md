@@ -35,3 +35,8 @@ git chekout <первые 4 символа commit>
 ```sh
 git chekout master
 ```
+### 5. Web ссылки
+* [Конспект первой лекции по GIT](https://gbcdn.mrgcdn.ru/uploads/asset/4057771/attachment/390cd806e833675b37d80f68a4c5915b.pdf "в PDF формате") 
+
+* [Конспект первого Семинара по GIT](https://gbcdn.mrgcdn.ru/uploads/asset/5422030/attachment/9aaaea4e6856f06d73fdb68723ee4aa7.pdf "в PDF формате") 
+
