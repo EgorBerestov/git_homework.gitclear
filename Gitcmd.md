@@ -40,3 +40,8 @@ git chekout master
 
 * [Конспект первого Семинара по GIT](https://gbcdn.mrgcdn.ru/uploads/asset/5422030/attachment/9aaaea4e6856f06d73fdb68723ee4aa7.pdf "в PDF формате") 
 
+
+
+6. ### Добавить изображение
+
+[ссылка на картинку Git](https://www.20i.com/blog/wp-content/uploads/2022/08/git-blog-header-740x416.png)
