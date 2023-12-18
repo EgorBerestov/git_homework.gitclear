@@ -37,9 +37,11 @@ git chekout master
 ```
 ### 5. Web ссылки
 * [Конспект первой лекции по GIT](https://gbcdn.mrgcdn.ru/uploads/asset/4057771/attachment/390cd806e833675b37d80f68a4c5915b.pdf "в PDF формате") 
+* [Конспект второй лекции по GIT](https://gbcdn.mrgcdn.ru/uploads/asset/4058653/attachment/d90240e19745f590a4e86ebc01caf662.pdf "в PDF формате")
+* [Конспект третьей лекции по GIT](https://gbcdn.mrgcdn.ru/uploads/asset/4058754/attachment/f22ad666127b86ab3b28e169aa90d121.pdf "в PDF формате") 
 
 * [Конспект первого Семинара по GIT](https://gbcdn.mrgcdn.ru/uploads/asset/5422030/attachment/9aaaea4e6856f06d73fdb68723ee4aa7.pdf "в PDF формате") 
-
+* [Конспект второго Семинара по GIT](https://gbcdn.mrgcdn.ru/uploads/asset/5422032/attachment/d86c7442c7c18747643757a01c583bbe.pdf "в PDF формате") 
 
 
 6. ### Добавить изображение
