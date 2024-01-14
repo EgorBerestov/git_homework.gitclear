@@ -99,15 +99,29 @@ git clone <url-адрес репозитория>
 ```
 echo "# git_homework" >> README.md
 ``` 
-- Инициализация репозитория с поимощью команды (git init)
+- Инициализация репозитория с поимощью команды 
+```
+git init
+```
+- индексация файла
 
-- git add README.md (индексация файла)
+```
+git add README.md
+```
 
-- git commit -m "первая фиксация" 
+```
+git commit -m "первая фиксация" 
+```
 
-- git Branch -M main (переименование ветки master в main)
+- переименование ветки master в main
+```
+git branch -M main
+```
 
-- git удаленное добавление источника https://github.com/EgorBerestov/git_homework.git
+- удаленное добавление источника
+```
+git remote add origin https://github.com/EgorBerestov/git_homework.git
+```
 
 -  git push - ты родной, главный
 
