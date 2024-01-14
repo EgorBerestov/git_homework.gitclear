@@ -92,8 +92,31 @@ git diff
 ```
 git clone <url-адрес репозитория>
 ```
-## Как сделать Fork на Git Hub
--
+## Создание удаленного репо
+### Первый вариант
+
+- создание файла README.md для удаленого репо 
+```
+echo "# git_homework" >> README.md
+``` 
+- Инициализация репозитория с поимощью команды (git init)
+
+- git add README.md (индексация файла)
+
+- git commit -m "первая фиксация" 
+
+- git Branch -M main (переименование ветки master в main)
+
+- git удаленное добавление источника https://github.com/EgorBerestov/git_homework.git
+
+-  git push - ты родной, главный
+
+### Второй вариант:
+
+git удаленное добавление источника https://github.com/EgorBerestov/git_homework.git
+ git Branch -M main 
+git push -u origin main
+
 
 
 
